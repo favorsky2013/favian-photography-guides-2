@@ -1,0 +1,9 @@
+site_name: Favian Photography Guides
+site_url: https://favian-photography-guides-2.readthedocs.io/
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - Newborn Photography Guide: newborn-session-brisbane.md
